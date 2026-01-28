@@ -48,7 +48,7 @@ const featured = {
   <div class="min-h-screen bg-slate-950 text-slate-100">
     <div class="relative mx-auto max-w-xl px-6 py-10">
       <div class="mb-4">
-        <a href="https://palawi.fr/" class="inline-flex items-center gap-2 rounded-xl bg-slate-800/70 px-3 py-2 text-sm font-semibold text-white ring-1 ring-white/10 shadow-sm transition hover:-translate-y-0.5 hover:bg-slate-800/90 focus:outline-none focus-visible:ring-4 focus-visible:ring-white/20">
+        <a href="/" class="inline-flex items-center gap-2 rounded-xl bg-slate-800/70 px-3 py-2 text-sm font-semibold text-white ring-1 ring-white/10 shadow-sm transition hover:-translate-y-0.5 hover:bg-slate-800/90 focus:outline-none focus-visible:ring-4 focus-visible:ring-white/20">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" class="h-4 w-4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M4 12h16"/>
             <path d="M10 6l-6 6 6 6"/>
